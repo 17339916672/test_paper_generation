@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="test_paper_generation"
+  id="myeclipse.1587390941398"
+  context-root="/test_paper_generation"
+  j2ee-spec="1.7"
+  archive="test_paper_generation.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
